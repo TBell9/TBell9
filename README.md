@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-Prem AD within Azure VMs](https://github.com/tbell9/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tbell9/azure-network-protocols)
+  - [Configuring VPN within Azure VMs](https://github.com/tbell9/configure-vpn)
 
 <h2>🤳🏾Connect with me:</h2>
 
